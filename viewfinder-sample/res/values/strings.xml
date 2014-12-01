@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Viewfinder-Sample</string>
+    <string name="hello">Hello viewfinder-sample!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">進擊中的天誠逍逸</string>
+
+</resources>

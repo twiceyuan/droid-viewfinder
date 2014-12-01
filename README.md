@@ -3,7 +3,7 @@ droid-viewfinder
 
 ## 源来
 
- 近段实际在进行Android开发时，发现在UI组件比较多时，需要一个个调用findViewById实例化，着实感觉繁琐。通过在Spring的Annotation得到启发，于是写了一个项目来实现通过Annotation自动进行实例化。
+ 近段时间在进行Android开发时，发现在UI组件比较多时，需要一个个调用findViewById实例化，着实感觉繁琐。通过在Spring的Annotation得到启发，于是写了一个项目来实现通过Annotation自动进行实例化。
 
 ## 用到的主要技术
 

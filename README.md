@@ -1,4 +1,4 @@
-droid-viewfinder
+droid-viewfinder(Android Studio)
 ================
 
 ## 源来

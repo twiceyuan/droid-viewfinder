@@ -57,3 +57,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# IDEA files
+.idea
+
+.idea/gradle.xml
+
+ViewFinder.iml

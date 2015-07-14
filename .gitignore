@@ -59,8 +59,7 @@ $RECYCLE.BIN/
 *.msp
 
 # IDEA files
-.idea
 
-.idea/gradle.xml
-
-ViewFinder.iml
+.idea/
+build/
+*.iml

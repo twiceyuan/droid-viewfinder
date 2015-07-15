@@ -64,3 +64,13 @@ $RECYCLE.BIN/
 build/
 *.iml
 local.properties
+
+*.bin
+
+*.properties
+
+*.lock
+
+*.iml
+
+*.iml
